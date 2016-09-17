@@ -1,3 +1,10 @@
+## [v2.20.0](https://github.com/deadsurgeon42/hubot/tree/v2.20.0) (2016-09-17)
+[Full Changelog](https://github.com/deadsurgeon42/hubot/compare/v2.19.0...v2.20.0)
+
+**Implemented enhancements:**
+
+- Use `dotenv` to process .env file on start
+
 ## [v2.19.0](https://github.com/github/hubot/tree/v2.19.0) (2016-05-0-6)
 [Full Changelog](https://github.com/github/hubot/compare/v2.18.0...v2.19.0)
 

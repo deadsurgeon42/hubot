@@ -1,7 +1,7 @@
 {
   "name": "hubot",
-  "version": "2.19.0",
-  "author": "hubot",
+  "version": "2.20.0",
+  "author": "deadsurgeon42",
   "keywords": [
     "github",
     "hubot",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/github/hubot.git"
+    "url": "https://github.com/deadsurgeon42/hubot.git"
   },
   "dependencies": {
     "async": ">=0.1.0 <1.0.0",
@@ -20,6 +20,7 @@
     "cline": "^0.8.2",
     "coffee-script": "1.6.3",
     "connect-multiparty": "^1.2.5",
+    "dotenv": "^2.0.0",
     "express": "^3.21.2",
     "log": "1.4.0",
     "optparse": "1.0.4",
